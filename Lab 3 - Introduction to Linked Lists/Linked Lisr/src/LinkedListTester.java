@@ -2,7 +2,15 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
+ /*
 
+ Course: Data Structures and Algorithms in Java
+ Lab No. 2: Linear Search – Applications in Real Life
+ Student Name: Lex Edrick Asherjesse C. Matondo
+ Student ID: 0-0207
+ Date Submitted: September 26, 2025
+
+*/
 /**
  *
  * @author User
@@ -58,3 +66,4 @@ public class LinkedListTester {
         System.out.println("\nTESTING COMPLETE");
     }
 }
+
